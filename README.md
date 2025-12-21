@@ -18,11 +18,22 @@ flexibility in terms of how you decide to use it.  You can use PLY to
 build Abstract Syntax Trees (ASTs), simple one-pass compilers,
 protocol decoders, or even a more advanced parsing framework.
 
-## Important Notice - October 27, 2022
+## Important Notice - December 21, 2025
 
-The PLY project will make no further package-installable releases.
-If you want the latest version, you'll need to download it here
-or clone the repo.
+After 25 years, I've decided to abandon the PLY project.  No further
+maintenance is expected.  At this point, there are many high-quality
+parsing libraries that you might consider using instead.  Or you could
+continue to use PLY by copying it into your project. Or you could write
+a hand-rolled recursive descent parser.  I don't really have a
+specific recommendation (although writing a parser by hand can be 
+a fun challenge).
+
+Thanks for everyone who supported PLY over the years!
+
+Cheers,  
+Dave
+
+(legacy README file continues below)
 
 ## Requirements
 
